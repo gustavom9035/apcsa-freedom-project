@@ -4,7 +4,7 @@ by **Gustavo Martinez**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
 
-For my project, I chose to independently study **X** in order to help me make **X**.
+For my project, I chose to independently study **RetroED** in order to help me make a **Mod** for Sonic CD (2011).
 
 ## Links
 
