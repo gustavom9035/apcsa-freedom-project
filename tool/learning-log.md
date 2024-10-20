@@ -1,15 +1,15 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **RetroED**
 
-## Project: **X**
+## Project: **Mod** for Sonic CD (2011)
 
 ---
 
-### X/X/XX:
+### 09/30/24 - 10/21/24:
 * Text
 
-### X/X/XX:
+### X/X/XX - X/X/XX:
 * Text
 
 
