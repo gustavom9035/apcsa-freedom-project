@@ -25,10 +25,10 @@
   * If you've done everything correct all you need to do now is go to tools and open scene editor. Then click on file and choose open to which i'll ask for the scene (Make sure to change RSDKv4 Scenes to v3) which is loacted in your mod's data folder. Then i'll ask for the gameconfig which is in the game folder. If the scene shows up all you need to do is click on Run Game and if that works then congrats! You've set it up properly!
 * Getting this all working was trial and error so not much tinkering went on however I did manage to edit the object placement and save it so next time will be more tinker focused than setup! ^_^
 
-### 10/21/24 - 10/28/24("Passonate Preperation Zone 2" <a href="https://www.youtube.com/watch?v=r_lxs_TdYU0" target="_blank">Opens in new tab</a>):
+### 10/21/24 - 10/28/24 ("Passonate Preperation Zone 2" [Track 2](https://www.youtube.com/watch?v=r_lxs_TdYU0)):
 * Text
 
-### 10/28/24 - 11/4/24("Passonate Preperation Zone 3" [Track 3](https://www.youtube.com/watch?v=taQYqIg7pRg)):
+### 10/28/24 - 11/04/24 ("Passonate Preperation Zone 3" [Track 3](https://www.youtube.com/watch?v=taQYqIg7pRg)):
 * Checked the rest of the tools in RetroED such as the animation editor
   *  Viewed the sprites and animation frames as well looked at how they are stored.
 
