@@ -6,7 +6,7 @@
 
 ---
 
-### 09/30/24 - 10/21/24 ("Passonate Preperation Zone 1" [Track 1](https://www.youtube.com/watch?v=kAHNlAAuV8E&list=PLqzVNX9DhzKHdbOvayTVcPyJ8QOB2xjhp&index=1)):
+### 09/30/24 - 10/21/24 ("Passonate Preperation Zone 1" [Track 1](https://www.youtube.com/watch?v=kAHNlAAuV8E)):
 * In order to get this whole thing running you'll need the Sonic CD [decompilation](https://github.com/RSDKModding/RSDKv3-Decompilation).
   * I'd recommend using this [guide](https://gamebanana.com/tuts/14111) or this [video](https://www.youtube.com/watch?v=CO7GpbWuzDI).
   * Both listed above are under the assumption you're on windows so if not just check the readme on the decomp for your OS!
