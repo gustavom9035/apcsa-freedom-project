@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Tool Learning Log
 
 ## Tool: **RetroED**
