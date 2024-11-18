@@ -32,6 +32,9 @@
 * Checked the rest of the tools in RetroED such as the animation editor
   *  Viewed the sprites and animation frames as well looked at how they are stored.
 
+### 11/04/24 - 11/18/24:
+* Read through character scrpits and checked out the RetroScript handbook. 
+
 ### X/X/XX - X/X/XX:
 * Text
 
