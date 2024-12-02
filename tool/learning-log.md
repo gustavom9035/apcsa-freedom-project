@@ -35,6 +35,9 @@
 ### 11/04/24 - 11/18/24:
 * Read through character scrpits and checked out the RetroScript handbook. 
 
+### 11/04/24 - 12/2/24:
+* Tinkered with script values and presence of certain script files.
+
 ### X/X/XX - X/X/XX:
 * Text
 
