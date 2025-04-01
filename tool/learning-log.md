@@ -38,6 +38,12 @@
 ### 11/04/24 - 12/2/24:
 * Tinkered with script values and presence of certain script files.
 
+### 3/24/25 - 4/1/25:
+* Implemented proper directory stucture
+* Toyed with object values
+* Experimented with object layouts
+* Attempted to add original code
+
 ### X/X/XX - X/X/XX:
 * Text
 
